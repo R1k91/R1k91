@@ -42,13 +42,10 @@ Last but not least, Hard Rock and Heavy Metal addicted!<br>
 
 ### 🚀 My Toolbox
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="45" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="vscode" width="45" height="100"/>
-  <img src="https://user-images.githubusercontent.com/57228476/232093751-8cbafab9-ed82-4bbd-9c2f-20153f1e56ea.png" alt="vscode" height="50"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"  height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vscode"  height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="vscode"  height="100"/>
+  <img src="https://user-images.githubusercontent.com/57228476/232098008-ff273167-5813-4a6b-a383-4596e8359e6f.png" alt="php"  height="100" />
 </p>
 
 ### My Little Contribution To Data Community
