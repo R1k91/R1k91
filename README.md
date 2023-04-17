@@ -41,15 +41,30 @@ Last but not least, Hard Rock and Heavy Metal addicted!<br>
 </p>
 
 ### 🚀 My Toolbox
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"  height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vscode"  height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="vscode"  height="100"/>
   <img src="https://user-images.githubusercontent.com/57228476/232098008-ff273167-5813-4a6b-a383-4596e8359e6f.png" alt="php"  height="100" />
+  <img src="https://user-images.githubusercontent.com/57228476/232522384-c2b300c2-4225-491d-aac6-c8b9e47118f8.png" alt="synapse"  height="100" />
+  <img src="https://user-images.githubusercontent.com/57228476/232523221-192118fd-5f85-4afb-8284-fd63430d69d5.png" alt="pbi"  height="100" />
+  <img src="https://user-images.githubusercontent.com/57228476/232523872-884578fb-5490-45df-983b-c49e77ba9ab1.png" alt="te"  height="100" />
+  <img src="https://user-images.githubusercontent.com/57228476/232524571-5609626f-af45-4940-bfd9-da80f214d2fc.png" alt="daxstudio"  height="100" />
+  <img src="https://user-images.githubusercontent.com/57228476/232525016-84539b45-3d40-46cd-8fe3-7d0029378b78.png" alt="sql"  height="100" />
 </p>
 
 ### My Little Contribution To Data Community
-
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/57228476/232526491-4cf5038e-a392-47e8-b241-6710eee75f3d.png" alt="vscode"  height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vscode"  height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="vscode"  height="100"/>
+  <img src="https://user-images.githubusercontent.com/57228476/232098008-ff273167-5813-4a6b-a383-4596e8359e6f.png" alt="php"  height="100" />
+  <img src="https://user-images.githubusercontent.com/57228476/232522384-c2b300c2-4225-491d-aac6-c8b9e47118f8.png" alt="synapse"  height="100" />
+  <img src="https://user-images.githubusercontent.com/57228476/232523221-192118fd-5f85-4afb-8284-fd63430d69d5.png" alt="pbi"  height="100" />
+  <img src="https://user-images.githubusercontent.com/57228476/232523872-884578fb-5490-45df-983b-c49e77ba9ab1.png" alt="te"  height="100" />
+  <img src="https://user-images.githubusercontent.com/57228476/232524571-5609626f-af45-4940-bfd9-da80f214d2fc.png" alt="daxstudio"  height="100" />
+  <img src="https://user-images.githubusercontent.com/57228476/232525016-84539b45-3d40-46cd-8fe3-7d0029378b78.png" alt="sql"  height="100" />
+</p>
 ### Books reviwed
 
 
