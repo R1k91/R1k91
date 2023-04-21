@@ -10,14 +10,14 @@
     <a href="https://techhub.social/@r1k91">
       <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
     </a>
+    <a href="https://medium.com/riccardo-perico">
+      <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=Medium&logoColor=white" alt="Mastodon Badge"/>
+    </a>
   </div>
-      <a>
-        <img src="https://komarev.com/ghpvc/?username=r1k91&style=flat-square&color=blue" alt=""/>
-      </a>
-     <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=r1k91&style=flat-square&color=blue" alt=""/>
+  </a>
+  <h1>hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
   
 
