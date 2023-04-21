@@ -24,9 +24,8 @@
 </div>
   
 
-### :man_technologist: About Me :
+### :man_technologist: BI and Power BI Engineer :
 <p>
-I am a BI and Power BI Engineer<br>
 Back in 2010 I started working in Information Technology.<br>
 After a brief experience as ERP Consultant, I moved into Data Realm.<br>
 I spent these years exploring Data world from different points of view, both as DBA and Business Intelligence Engineer.<br>
@@ -59,7 +58,13 @@ Last but not least, Hard Rock and Heavy Metal addicted!<br>
   <img src="https://user-images.githubusercontent.com/57228476/232525016-84539b45-3d40-46cd-8fe3-7d0029378b78.png" alt="sql"  height="100" />
 </p>
 
-### My Little Contribution To Data Community
+### 🗣️ My Little Contribution To Data Community
+<p>
+These are some of the Data Communities where you can find me.<br>
+</p>
+
+If you're searching for materials from my sessions check out [this repository.](https://github.com/R1k91/CommunityEvents)
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57228476/232526491-4cf5038e-a392-47e8-b241-6710eee75f3d.png" alt="pbiug"  height="100"/>
   <img src="https://user-images.githubusercontent.com/57228476/233631159-2b3f1950-3ad0-44a5-9145-85c6f2f3b898.png" alt="ppbt"  height="100"/>
@@ -71,27 +76,9 @@ Last but not least, Hard Rock and Heavy Metal addicted!<br>
   <img src="https://user-images.githubusercontent.com/57228476/233631299-c8873f9d-3f9d-4fcd-a19d-04cf0da84c96.png" alt="datasat"  height="100" />
   <img src="https://user-images.githubusercontent.com/57228476/233630868-2ad2d541-26f7-4a5e-a972-226778bc7671.png" alt="ppwt"  height="100"/>
 </p>
-### 📚 Books reviwed
+
+### 📚 Books technically reviewed
 
 2021 - [Extending Power BI with Python and R: Ingest, transform, enrich, and visualize data using the power of analytical languages](https://www.amazon.it/Extending-Power-Python-transform-analytical/dp/1801078203/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1GVOXRV1GZMG7&keywords=extending+power+bi+with+r+and+python&qid=1682079459&s=books&sprefix=extending+power+bi+with+r+and+python%2Cstripbooks%2C77&sr=1-1)
 
 2022 - [Microsoft Power BI Quick Start Guide: The ultimate beginner's guide to data modeling, visualization, digital storytelling, and more, 3rd Edition](https://www.amazon.it/Microsoft-Power-Quick-Start-Guide-dp-1804613495/dp/1804613495/ref=dp_ob_image_bk)
-
-
-
-
-
-<!--
-**R1k91/R1k91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
