@@ -54,18 +54,25 @@ Last but not least, Hard Rock and Heavy Metal addicted!<br>
 </p>
 
 ### My Little Contribution To Data Community
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/57228476/232526491-4cf5038e-a392-47e8-b241-6710eee75f3d.png" alt="vscode"  height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vscode"  height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="vscode"  height="100"/>
-  <img src="https://user-images.githubusercontent.com/57228476/232098008-ff273167-5813-4a6b-a383-4596e8359e6f.png" alt="php"  height="100" />
-  <img src="https://user-images.githubusercontent.com/57228476/232522384-c2b300c2-4225-491d-aac6-c8b9e47118f8.png" alt="synapse"  height="100" />
-  <img src="https://user-images.githubusercontent.com/57228476/232523221-192118fd-5f85-4afb-8284-fd63430d69d5.png" alt="pbi"  height="100" />
-  <img src="https://user-images.githubusercontent.com/57228476/232523872-884578fb-5490-45df-983b-c49e77ba9ab1.png" alt="te"  height="100" />
-  <img src="https://user-images.githubusercontent.com/57228476/232524571-5609626f-af45-4940-bfd9-da80f214d2fc.png" alt="daxstudio"  height="100" />
-  <img src="https://user-images.githubusercontent.com/57228476/232525016-84539b45-3d40-46cd-8fe3-7d0029378b78.png" alt="sql"  height="100" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57228476/232526491-4cf5038e-a392-47e8-b241-6710eee75f3d.png" alt="pbiug"  height="100"/>
+  <img src="https://user-images.githubusercontent.com/57228476/233631159-2b3f1950-3ad0-44a5-9145-85c6f2f3b898.png" alt="ppbt"  height="100"/>
+  <img src="https://user-images.githubusercontent.com/57228476/233631325-81b9e707-8142-47c5-8963-964165189387.png" alt="pass"  height="100" />
+  <img src="https://user-images.githubusercontent.com/57228476/233631397-a32f81bc-f2e1-4705-ad44-f71b63f06bda.png" alt="innova"  height="100" />
+  <img src="https://user-images.githubusercontent.com/57228476/233631692-86c74e4e-57d7-4163-918d-0276213c0e35.png" alt="gla"  height="100" />
 </p>
-### Books reviwed
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57228476/233631299-c8873f9d-3f9d-4fcd-a19d-04cf0da84c96.png" alt="datasat"  height="100" />
+  <img src="https://user-images.githubusercontent.com/57228476/233630868-2ad2d541-26f7-4a5e-a972-226778bc7671.png" alt="ppwt"  height="100"/>
+</p>
+### 📚 Books reviwed
+
+2021 - [Extending Power BI with Python and R: Ingest, transform, enrich, and visualize data using the power of analytical languages](https://www.amazon.it/Extending-Power-Python-transform-analytical/dp/1801078203/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1GVOXRV1GZMG7&keywords=extending+power+bi+with+r+and+python&qid=1682079459&s=books&sprefix=extending+power+bi+with+r+and+python%2Cstripbooks%2C77&sr=1-1)
+
+2022 - [Microsoft Power BI Quick Start Guide: The ultimate beginner's guide to data modeling, visualization, digital storytelling, and more, 3rd Edition](https://www.amazon.it/Microsoft-Power-Quick-Start-Guide-dp-1804613495/dp/1804613495/ref=dp_ob_image_bk)
+
+
+
 
 
 <!--
