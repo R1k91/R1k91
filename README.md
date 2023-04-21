@@ -7,6 +7,9 @@
     <a href="https://mobile.twitter.com/R1k91">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="https://techhub.social/@r1k91">
+      <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
+    </a>
   </div>
       <a>
         <img src="https://komarev.com/ghpvc/?username=r1k91&style=flat-square&color=blue" alt=""/>
