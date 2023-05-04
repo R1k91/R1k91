@@ -24,7 +24,7 @@
 </div>
   
 
-### :man_technologist: BI and Power BI Engineer :
+### :man_technologist: BI and Power BI Engineer
 <p>
 Back in 2010 I started working in Information Technology.<br>
 After a brief experience as ERP Consultant, I moved into Data Realm.<br>
