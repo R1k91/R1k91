@@ -75,6 +75,7 @@ If you're searching for materials from my sessions check out [this repository.](
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57228476/233631299-c8873f9d-3f9d-4fcd-a19d-04cf0da84c96.png" alt="datasat"  height="100" />
   <img src="https://user-images.githubusercontent.com/57228476/233630868-2ad2d541-26f7-4a5e-a972-226778bc7671.png" alt="ppwt"  height="100"/>
+  <img src="https://user-images.githubusercontent.com/57228476/91dda0d6-8070-456c-9de8-92e1f3d90172.png" alt="ppwt"  height="100"/>
 </p>
 
 ### 📚 Books technically reviewed
