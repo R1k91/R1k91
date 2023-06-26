@@ -72,10 +72,11 @@ If you're searching for materials from my sessions check out [this repository.](
   <img src="https://user-images.githubusercontent.com/57228476/233631397-a32f81bc-f2e1-4705-ad44-f71b63f06bda.png" alt="innova"  height="100" />
   <img src="https://user-images.githubusercontent.com/57228476/233631692-86c74e4e-57d7-4163-918d-0276213c0e35.png" alt="gla"  height="100" />
 </p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57228476/233631299-c8873f9d-3f9d-4fcd-a19d-04cf0da84c96.png" alt="datasat"  height="100" />
   <img src="https://user-images.githubusercontent.com/57228476/233630868-2ad2d541-26f7-4a5e-a972-226778bc7671.png" alt="ppwt"  height="100"/>
-  <img src="https://user-images.githubusercontent.com/57228476/91dda0d6-8070-456c-9de8-92e1f3d90172.png" alt="ppwt"  height="100"/>
+  <img src="https://github.com/R1k91/R1k91/assets/57228476/6fe85911-7393-457a-9fce-6af1d05ab75b" alt="devmarche"  height="100"/>
 </p>
 
 ### 📚 Books technically reviewed
