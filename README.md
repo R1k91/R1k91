@@ -13,7 +13,7 @@
     <a href="https://medium.com/riccardo-perico">
       <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=Medium&logoColor=white" alt="Mastodon Badge"/>
     </a>
-    <a href="ttps://sessionize.com/riccardo-perico">
+    <a href="https://sessionize.com/riccardo-perico">
       <img src="https://img.shields.io/badge/Sessionize-blue?style=for-the-badge&logo=Sessionize&logoColor=white" alt="Mastodon Badge"/>
     </a>
   </div>
