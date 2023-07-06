@@ -60,7 +60,7 @@ Last but not least, Hard Rock and Heavy Metal addicted!<br>
 
 ### 🗣️ My Little Contribution To Data Community
 <p>
-These are some of the Data Communities where you can find me.<br>
+These are some of the Data Communities and Events where you can find me.<br>
 </p>
 
 If you're searching for materials from my sessions check out [this repository.](https://github.com/R1k91/CommunityEvents)
