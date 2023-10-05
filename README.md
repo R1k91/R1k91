@@ -56,6 +56,8 @@ Last but not least, Hard Rock and Heavy Metal addicted!<br>
   <img src="https://user-images.githubusercontent.com/57228476/232523872-884578fb-5490-45df-983b-c49e77ba9ab1.png" alt="te"  height="100" />
   <img src="https://user-images.githubusercontent.com/57228476/232524571-5609626f-af45-4940-bfd9-da80f214d2fc.png" alt="daxstudio"  height="100" />
   <img src="https://user-images.githubusercontent.com/57228476/232525016-84539b45-3d40-46cd-8fe3-7d0029378b78.png" alt="sql"  height="100" />
+  <img src="https://user-images.githubusercontent.com/57228476/272932378-4a6269c3-59e6-4b16-b7a1-4689b5decef5.png" alt="ssms"  height="100" />
+  <img src="https://user-images.githubusercontent.com/57228476/272932978-1d30bef1-5229-408c-a0bd-b8eae76eb9bc.png" alt="ads"  height="100" />
 </p>
 
 ### 🗣️ My Little Contribution To Data Community
