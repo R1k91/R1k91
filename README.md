@@ -47,17 +47,21 @@ Last but not least, Hard Rock and Heavy Metal addicted!<br>
 
 ### 🧰 My Toolbox
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"  height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vscode"  height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="vscode"  height="100"/>
-  <img src="https://user-images.githubusercontent.com/57228476/232098008-ff273167-5813-4a6b-a383-4596e8359e6f.png" alt="php"  height="100" />
-  <img src="https://user-images.githubusercontent.com/57228476/232522384-c2b300c2-4225-491d-aac6-c8b9e47118f8.png" alt="synapse"  height="100" />
-  <img src="https://user-images.githubusercontent.com/57228476/232523221-192118fd-5f85-4afb-8284-fd63430d69d5.png" alt="pbi"  height="100" />
-  <img src="https://user-images.githubusercontent.com/57228476/232523872-884578fb-5490-45df-983b-c49e77ba9ab1.png" alt="te"  height="100" />
-  <img src="https://user-images.githubusercontent.com/57228476/232524571-5609626f-af45-4940-bfd9-da80f214d2fc.png" alt="daxstudio"  height="100" />
-  <img src="https://user-images.githubusercontent.com/57228476/232525016-84539b45-3d40-46cd-8fe3-7d0029378b78.png" alt="sql"  height="100" />
-  <img src="https://user-images.githubusercontent.com/57228476/272932378-4a6269c3-59e6-4b16-b7a1-4689b5decef5.png" alt="ssms"  height="100" />
-  <img src="https://user-images.githubusercontent.com/57228476/272932978-1d30bef1-5229-408c-a0bd-b8eae76eb9bc.png" alt="ads"  height="100" />
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"  height="100"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vscode"  height="100"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="vscode"  height="100"/>
+    <img src="https://user-images.githubusercontent.com/57228476/232098008-ff273167-5813-4a6b-a383-4596e8359e6f.png" alt="php"  height="100" />
+    <img src="https://user-images.githubusercontent.com/57228476/232522384-c2b300c2-4225-491d-aac6-c8b9e47118f8.png" alt="synapse"  height="100" />
+    <img src="https://user-images.githubusercontent.com/57228476/232523221-192118fd-5f85-4afb-8284-fd63430d69d5.png" alt="pbi"  height="100" />
+  </div>
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/57228476/232523872-884578fb-5490-45df-983b-c49e77ba9ab1.png" alt="te"  height="100" />
+    <img src="https://user-images.githubusercontent.com/57228476/232524571-5609626f-af45-4940-bfd9-da80f214d2fc.png" alt="daxstudio"  height="100" />
+    <img src="https://user-images.githubusercontent.com/57228476/232525016-84539b45-3d40-46cd-8fe3-7d0029378b78.png" alt="sql"  height="100" />
+    <img src="https://user-images.githubusercontent.com/57228476/272932378-4a6269c3-59e6-4b16-b7a1-4689b5decef5.png" alt="ssms"  height="100" />
+    <img src="https://user-images.githubusercontent.com/57228476/272932978-1d30bef1-5229-408c-a0bd-b8eae76eb9bc.png" alt="ads"  height="100" />
+  </div>
 </p>
 
 ### 🗣️ My Little Contribution To Data Community
