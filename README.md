@@ -26,15 +26,22 @@
 
 ### :man_technologist: BI and Power BI Engineer
 <p>
-Back in 2010 I started working in Information Technology.<br>
-After a brief experience as ERP Consultant, I moved into Data Realm.<br>
-I spent these years exploring Data world from different points of view, both as DBA and Business Intelligence Engineer.<br>
-I'm a Microsoft Certified Professional at different levels in databases, BI and Azure areas.<br>
-Microsoft MVP for Data Platform category.<br>
-Technical reviewer for Power BI books.<br>
-I'm one of the leaders of Power BI User Group in Italy and I'd been speaker during the Power Platform World Tour and Power Platform Bootcamp stops in Italy.<br>
-I'm also speaker during Azure Saturday, SQL Saturday, Global Azure and Data Saturday events in Europe.<br>
-Last but not least, Hard Rock and Heavy Metal addicted!<br>
+Back in 2010 I began my career in IT.
+After a brief stint as ERP Consultant, I transitioned into Data Realm.
+
+Over the years, I explored the world of data from various perspectives, working both as a DBA and a BI Engineer.
+
+I'm a Microsoft Certified Professional at different levels in databases, BI and Azure areas.
+
+Microsoft MVP for Data Platform category.
+
+I'm one of the leaders of Power BI User Group in Italy and I'd been speaker during the Power Platform World Tour and Global Power Platform Bootcamp stops in Italy.
+
+You can find me speaking at Azure Saturday, SQL Saturday, Data Saturday, and other community events across Europe.
+
+I served as a technical reviewer for the books “Extending Power BI with Python and R” and the “Microsoft Power BI Quick Start Guide, 3rd Edition.”
+
+Last but not least, Hard Rock and Heavy Metal addicted!
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57228476/232088770-01ecfa64-f2d7-4475-988e-d1ff300a1f89.png" alt="mvp" height="80"/>
