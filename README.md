@@ -44,9 +44,6 @@ I served as a technical reviewer for the books “Extending Power BI with Python
 Last but not least, Hard Rock and Heavy Metal addicted!
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/57228476/232088770-01ecfa64-f2d7-4475-988e-d1ff300a1f89.png" alt="mvp" height="80"/>
-<p>
-<p align="center">
   <img src="https://user-images.githubusercontent.com/57228476/232090109-9fd0094e-099e-4b7f-aad3-041879b3ebe5.png" alt="adea" height="80"/>
    <img src="https://user-images.githubusercontent.com/57228476/232090446-70a0558f-2e5d-4f7f-b219-afa281b055c5.png" alt="mcsa" height="80"/>
   <img src="https://user-images.githubusercontent.com/57228476/232089654-664a33cc-9c16-41f1-ae7b-e29d2b282eb0.png" alt="pbi" height="80"/>
