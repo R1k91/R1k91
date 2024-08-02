@@ -94,3 +94,5 @@ If you're searching for materials from my sessions check out [this repository.](
 2021 - [Extending Power BI with Python and R: Ingest, transform, enrich, and visualize data using the power of analytical languages](https://www.amazon.it/Extending-Power-Python-transform-analytical/dp/1801078203/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1GVOXRV1GZMG7&keywords=extending+power+bi+with+r+and+python&qid=1682079459&s=books&sprefix=extending+power+bi+with+r+and+python%2Cstripbooks%2C77&sr=1-1)
 
 2022 - [Microsoft Power BI Quick Start Guide: The ultimate beginner's guide to data modeling, visualization, digital storytelling, and more, 3rd Edition](https://www.amazon.it/Microsoft-Power-Quick-Start-Guide-dp-1804613495/dp/1804613495/ref=dp_ob_image_bk)
+
+2024 - [Microsoft Power BI Cookbook: Convert raw data into business insights with updated techniques, use cases, and best practices, Third Edition](https://www.packtpub.com/en-us/product/microsoft-power-bi-cookbook-9781835464274)
