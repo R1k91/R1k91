@@ -39,7 +39,7 @@ I'm one of the leaders of Power BI User Group in Italy and I'd been speaker duri
 
 You can find me speaking at Azure Saturday, SQL Saturday, Data Saturday, and other community events across Europe.
 
-I served as a technical reviewer for the books “Extending Power BI with Python and R” and the “Microsoft Power BI Quick Start Guide, 3rd Edition.”
+I served as a technical reviewer for the books “Extending Power BI with Python and R”, "Microsoft Power BI Quick Start Guide" and “Microsoft Power BI Quick Start Guide, 3rd Edition.”
 
 Last but not least, Hard Rock and Heavy Metal addicted!
 </p>
