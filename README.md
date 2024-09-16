@@ -41,7 +41,7 @@ You can find me speaking at Azure Saturday, SQL Saturday, Data Saturday, and oth
 
 I served as a technical reviewer for the books “Extending Power BI with Python and R”, "Microsoft Power BI Quick Start Guide" and “Power BI Cookbook, 3rd Edition”.
 
-Last but not least, Hard Rock and Heavy Metal addicted!
+Last but not least, Hard Rock and Heavy Metal addicted! 🎸🎸🎸
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57228476/232090446-70a0558f-2e5d-4f7f-b219-afa281b055c5.png" alt="mcsa" height="80"/>
