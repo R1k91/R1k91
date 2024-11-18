@@ -5,7 +5,10 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://mobile.twitter.com/R1k91">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/X (Twitter)-blue?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
+    </a>
+     <a href="https://bsky.app/profile/r1k91.bsky.social">
+      <img src="https://img.shields.io/badge/BlueSky-blue?style=for-the-badge&logo=BlueSky&logoColor=white" alt="BlueSky Badge"/>
     </a>
     <a href="https://techhub.social/@r1k91">
       <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
