@@ -36,7 +36,7 @@ Over the years, I explored the world of data from various perspectives, working 
 
 I'm a Microsoft Certified Professional at different levels in databases, BI and Azure areas.
 
-Microsoft MVP for Data Platform category from 2021 to 2024.
+Microsoft MVP for Data Platform category from 2021 to 2024 and Microsoft Fabric Super User.
 
 I'm one of the leaders of Power BI User Group in Italy and I'd been speaker during the Power Platform World Tour and Global Power Platform Bootcamp stops in Italy.
 
