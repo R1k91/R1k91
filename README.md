@@ -47,13 +47,16 @@ I served as a technical reviewer for the books “Extending Power BI with Python
 Last but not least, Hard Rock and Heavy Metal addicted!
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/57228476/232090446-70a0558f-2e5d-4f7f-b219-afa281b055c5.png" alt="mcsa" height="80"/>
-  <img src="https://user-images.githubusercontent.com/57228476/232090109-9fd0094e-099e-4b7f-aad3-041879b3ebe5.png" alt="adea" height="80"/>
-  <img src="https://user-images.githubusercontent.com/57228476/232089654-664a33cc-9c16-41f1-ae7b-e29d2b282eb0.png" alt="pbi" height="80"/>
-  <img src="https://github.com/user-attachments/assets/1b52325d-c7f7-4682-9175-59a31f706701" alt="fabric" height="80"/>
-  <img src="https://github.com/user-attachments/assets/852cf2da-a910-4e29-a1b9-222ef5403a4a" alt="super" height="80"/>
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/57228476/232090446-70a0558f-2e5d-4f7f-b219-afa281b055c5.png" alt="mcsa" height="80"/>
+    <img src="https://user-images.githubusercontent.com/57228476/232090109-9fd0094e-099e-4b7f-aad3-041879b3ebe5.png" alt="adea" height="80"/>
+    <img src="https://user-images.githubusercontent.com/57228476/232089654-664a33cc-9c16-41f1-ae7b-e29d2b282eb0.png" alt="pbi" height="80"/>
+    <img src="https://github.com/user-attachments/assets/1b52325d-c7f7-4682-9175-59a31f706701" alt="fabric" height="80"/>
+  </div>
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/68dcbd26-7acf-4f75-9b37-6d4c3e851e62" alt="su"  height="80" />
+  </div>
 </p>
-
 
 ### 🧰 My Toolbox
 <p align="center">
@@ -71,7 +74,6 @@ Last but not least, Hard Rock and Heavy Metal addicted!
     <img src="https://user-images.githubusercontent.com/57228476/232525016-84539b45-3d40-46cd-8fe3-7d0029378b78.png" alt="sql"  height="100" />
     <img src="https://user-images.githubusercontent.com/57228476/272932378-4a6269c3-59e6-4b16-b7a1-4689b5decef5.png" alt="ssms"  height="100" />
     <img src="https://user-images.githubusercontent.com/57228476/272932978-1d30bef1-5229-408c-a0bd-b8eae76eb9bc.png" alt="ads"  height="100" />
-    <img src="https://github.com/user-attachments/assets/2809f959-6d33-4db9-abe0-82ebabb5d09a" alt="fabric"  height="100" />
   </div>
 </p>
 
