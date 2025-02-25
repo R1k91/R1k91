@@ -27,7 +27,7 @@
 </div>
   
 
-### :man_technologist: BI and Power BI Engineer
+### :man_technologist: Business Intelligence Architect
 <p>
 Back in 2010 I began my career in IT.
 After a brief stint as ERP Consultant, I transitioned into Data Realm.
