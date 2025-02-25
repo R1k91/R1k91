@@ -32,7 +32,7 @@
 Back in 2010 I began my career in IT.
 After a brief stint as ERP Consultant, I transitioned into Data Realm.
 
-Over the years, I explored the world of data from various perspectives, working both as a DBA and a BI Engineer.
+Over the years, I explored the world of data from various perspectives, working both as a DBA and a BI Architect.
 
 I'm a Microsoft Certified Professional at different levels in databases, BI and Azure areas.
 
