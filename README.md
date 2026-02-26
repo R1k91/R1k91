@@ -56,6 +56,7 @@ Last but not least, Hard Rock and Heavy Metal addicted!
   <div align="center">
     <img src="https://github.com/user-attachments/assets/caf77adb-3da6-4af8-8637-af45bcacaaf2" alt="mvp"  height="80" />
     <img src="https://github.com/user-attachments/assets/68dcbd26-7acf-4f75-9b37-6d4c3e851e62" alt="su"  height="80" />
+    <img src="https://github.com/user-attachments/assets/b2da3a12-d16a-419f-af86-c852cfdb10f1" alt="su26"  height="80"/>
   </div>
 </p>
 
