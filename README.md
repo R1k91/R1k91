@@ -51,8 +51,8 @@ Last but not least, Hard Rock and Heavy Metal addicted!
     <img src="https://user-images.githubusercontent.com/57228476/232090446-70a0558f-2e5d-4f7f-b219-afa281b055c5.png" alt="mcsa" height="80"/>
     <img src="https://user-images.githubusercontent.com/57228476/232090109-9fd0094e-099e-4b7f-aad3-041879b3ebe5.png" alt="adea" height="80"/>
     <img src="https://user-images.githubusercontent.com/57228476/232089654-664a33cc-9c16-41f1-ae7b-e29d2b282eb0.png" alt="pbi" height="80"/>
-    <img src="https://github.com/user-attachments/assets/41805ce6-e116-4e0e-9521-a798602bb0af" alt="fabricAE" height="80"/>
-    <img src="https://github.com/user-attachments/assets/c38f2bdb-7ef7-4acc-828d-4e2e4be3b5ed" alt="fabricDE" height="80"/>
+    <img src="https://github.com/user-attachments/assets/d003e71c-e81d-40d2-8dc2-d0b8b45da7d4" alt="fabricAE" height="80"/>
+    <img src="https://github.com/user-attachments/assets/3ac365f5-2c05-4533-8f1e-8b2bfbf992f0" alt="fabricDE" height="80"/>
 
   </div>
   <div align="center">
