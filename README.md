@@ -77,7 +77,7 @@ Last but not least, Hard Rock and Heavy Metal addicted!
     <img src="https://user-images.githubusercontent.com/57228476/232524571-5609626f-af45-4940-bfd9-da80f214d2fc.png" alt="daxstudio"  height="100" />
     <img src="https://user-images.githubusercontent.com/57228476/232525016-84539b45-3d40-46cd-8fe3-7d0029378b78.png" alt="sql"  height="100" />
     <img src="https://user-images.githubusercontent.com/57228476/272932378-4a6269c3-59e6-4b16-b7a1-4689b5decef5.png" alt="ssms"  height="100" />
-    <img src="https://user-images.githubusercontent.com/57228476/272932978-1d30bef1-5229-408c-a0bd-b8eae76eb9bc.png" alt="ads"  height="100" />
+    <img src="https://cdn.jsdelivr.net/gh/microsoft/fabric-icons@main/product/Fabric.svg" alt="fabric"  height="100" />
   </div>
 </p>
 
@@ -104,10 +104,10 @@ If you're searching for materials from my sessions check out [this repository.](
 
 ### 📚 Books technically reviewed
 
-2021 - [Extending Power BI with Python and R: Ingest, transform, enrich, and visualize data using the power of analytical languages](https://www.amazon.it/Extending-Power-Python-transform-analytical/dp/1801078203/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1GVOXRV1GZMG7&keywords=extending+power+bi+with+r+and+python&qid=1682079459&s=books&sprefix=extending+power+bi+with+r+and+python%2Cstripbooks%2C77&sr=1-1)
+2021 - [Extending Power BI with Python and R: Ingest, transform, enrich, and visualize data using the power of analytical languages](https://www.amazon.it/Extending-Power-Python-transform-analytical/dp/1800206162)
 
-2022 - [Microsoft Power BI Quick Start Guide: The ultimate beginner's guide to data modeling, visualization, digital storytelling, and more, 3rd Edition](https://www.amazon.it/Microsoft-Power-Quick-Start-Guide-dp-1804613495/dp/1804613495/ref=dp_ob_image_bk)
+2022 - [Microsoft Power BI Quick Start Guide: The ultimate beginner's guide to data modeling, visualization, digital storytelling, and more, 3rd Edition](https://www.amazon.it/Microsoft-Power-Quick-Start-Guide/dp/1801078206)
 
-2024 - [Microsoft Power BI Cookbook: Convert raw data into business insights with updated techniques, use cases, and best practices, Third Edition](https://www.packtpub.com/en-us/product/microsoft-power-bi-cookbook-9781835464274)
+2024 - [Microsoft Power BI Cookbook: Convert raw data into business insights with updated techniques, use cases, and best practices, Third Edition](https://www.packtpub.com/en-us/product/microsoft-power-bi-cookbook-9781835467408)
 
 2025 - [Microsoft Power BI Data Analyst Exam Guide](https://bpbonline.com/products/microsoft-power-bi-data-analyst-exam-guide?_pos=6&_sid=86ca8457d&_ss=r?variant=44827517812936)
