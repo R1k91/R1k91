@@ -53,6 +53,8 @@ Last but not least, Hard Rock and Heavy Metal addicted!
     <img src="https://user-images.githubusercontent.com/57228476/232089654-664a33cc-9c16-41f1-ae7b-e29d2b282eb0.png" alt="pbi" height="80"/>
     <img src="https://github.com/user-attachments/assets/d003e71c-e81d-40d2-8dc2-d0b8b45da7d4" alt="fabricAE" height="80"/>
     <img src="https://github.com/user-attachments/assets/3ac365f5-2c05-4533-8f1e-8b2bfbf992f0" alt="fabricDE" height="80"/>
+    <img src="https://github.com/user-attachments/assets/888f9955-ad50-4e55-bab4-0e2ecca5b044" alt="sql-ai" height="80"/>
+
 
   </div>
   <div align="center">
